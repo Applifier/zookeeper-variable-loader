@@ -1,0 +1,12 @@
+{
+    "name": "zookeeper-variable-loader"
+  , "version": "0.0.1"
+  , "description": "Module for loading variables using ZooKeeper"
+  , "keywords": []
+  , "author": "Applifier <opensource@applifier.com>"
+  , "dependencies": {
+      "zookeeper" : ">= 3.3.3-0"
+    }
+  , "main": "index"
+  , "engines": { "node": "0.4.x" }
+}
