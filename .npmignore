@@ -3,3 +3,4 @@ test
 examples
 *.sock
 .idea
+node_modules
